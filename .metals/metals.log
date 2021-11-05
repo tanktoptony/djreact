@@ -1,0 +1,9 @@
+[0m2021.11.04 22:08:13 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\antho\Desktop\djreact' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.04 22:08:16 INFO  time: initialize in 2.41s[0m
+[0m2021.11.04 22:08:17 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.04 22:08:17 WARN  no build tool detected in workspace 'C:\Users\antho\Desktop\djreact'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Nov 04, 2021 10:11:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 04, 2021 10:12:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.11.04 22:17:12 INFO  shutting down Metals[0m
